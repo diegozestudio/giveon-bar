@@ -6,6 +6,10 @@ function index() {
  
   return (
     <>
+      <Head>
+        <title>Menú - Giveon Bar</title>
+      </Head>
+
       <main className={styles.container}>
         <div className={styles.contImg}>
           <img src="/logo.svg" alt="" />
