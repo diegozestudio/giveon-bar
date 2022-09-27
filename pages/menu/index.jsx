@@ -13,7 +13,7 @@ function index() {
         <div>
           <Link href="/">Volver a Home</Link>
         </div>
-        <button onClick={addComida}>Agregar primera comida</button>
+        {/* <button onClick={addComida}>Agregar primera comida</button> */}
       </main>
     </>
   );
