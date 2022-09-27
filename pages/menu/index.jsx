@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import { addComida } from "../../firebase/settings";
 import styles from "../../styles/menu.module.scss";
