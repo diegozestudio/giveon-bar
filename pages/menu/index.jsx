@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Link from "next/link";
-import { addComida } from "../../firebase/settings";
 import styles from "../../styles/menu.module.scss";
 
 function index() {
@@ -18,7 +17,6 @@ function index() {
         <div>
           <Link href="/">Volver a Home</Link>
         </div>
-        {/* <button onClick={addComida}>Agregar primera comida</button> */}
       </main>
     </>
   );
