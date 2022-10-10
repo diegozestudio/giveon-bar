@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { addComida } from "../firebase/firebase";
+import { addFood } from "../firebase/firebase";
 import styles from "../styles/menu.module.scss";
 
 const categorias = ["Lomitos", "Hamburguesas", "Carnes"];
@@ -11,6 +11,8 @@ function FormAddFood() {
     categoria: "",
     descripcion: "",
     esVeggie: false,
+    visibilidad: true,
+    imagen: ""
   });
 
   const handleChange = (e) => {
@@ -22,13 +24,15 @@ function FormAddFood() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    addComida(comida);
+    addFood(comida);
     setComida({
+      ...comida,
       nombre: "",
       precio: "",
-      categoria: "",
       descripcion: "",
       esVeggie: false,
+      visibilidad: true,
+      imagen: ""
     });
   };
 

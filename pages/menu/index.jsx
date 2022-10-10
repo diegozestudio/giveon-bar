@@ -1,10 +1,17 @@
 import Head from "next/head";
 import Link from "next/link";
+import { useEffect } from "react";
 import FormAddFood from "../../components/FormAddFood";
+import { getCategories } from "../../controllers/controllers";
+import { getFoods } from "../../firebase/firebase";
 import styles from "../../styles/menu.module.scss";
 
 
 function index() {
+  // useEffect(() => {
+  //   console.log("entré:", getCategories()) 
+  // }, [])
+  
   return (
     <>
       <Head>
