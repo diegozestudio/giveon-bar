@@ -14,21 +14,8 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-export const addComida = async () => {
-  try {
-    const docRef = await addDoc(collection(db, "comidas"), {
-      nombre: "Hamburguesa",
-      descripcion: "Hamburguesa completa en pan de papa",
-      precio: 1000,
-      visibilidad: true,
-      esVeggie: false,
-      imagen: null,
-      categoria: "hamburguesas"
-    });
-    console.log("Document written with ID: ", docRef.id);
-  } catch (e) {
-    console.error("Error adding document: ", e);
-  }
+export const addComida = (comida) => {
+  console.log(comida)
+  // addDoc(collection(db, "comidas"), comida);
 }
-
 
