@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import FormAddFood from "../../components/FormAddFood";
+import CategorieFood from "../../components/CategorieFood";
 import { getCategories } from "../../controllers/controllers";
 import { getFoods } from "../../firebase/firebase";
 import styles from "../../styles/menu.module.scss";
@@ -26,22 +26,16 @@ function index() {
           <img src="/logo.svg" alt="" />
         </div>
 
-        {/* <FormAddFood/> */}
-
         <div>Categorias:</div>
-        {categorias?.map((categoria) => {
-          return (
-            <div key={categoria}>
-              <div>{categoria}:</div>
-              {comidas?.map((comida) => {
-                if (comida.categoria === categoria) {
-                  return <div key={comida.id}>{comida.nombre}</div>;
-                }
-              })}
-              <br />
-            </div>
-          );
-        })}
+        {categorias ? (
+          categorias.map((categoria) => {
+            return (
+              <CategorieFood categorieName={categoria} comidas={comidas}/>
+            );
+          })
+        ) : (
+          <div>Cargando...</div>
+        )}
 
         <div>
           <Link href="/">Volver a Home</Link>
