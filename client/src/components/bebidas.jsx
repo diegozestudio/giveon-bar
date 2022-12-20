@@ -8,7 +8,7 @@ function bebidas() {
         <div className={styles.contIcon}>
           <FaWineBottle style={{ fill: "#222725" }} />
         </div>
-        <div>BEBIDAS</div>
+        <div className={styles.title}>BEBIDAS</div>
       </div>
     </div>
   );

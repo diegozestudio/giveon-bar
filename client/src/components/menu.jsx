@@ -8,7 +8,7 @@ function menu() {
         <div className={styles.contIcon}>
           <ImSpoonKnife style={{ fill: "#222725" }} />
         </div>
-        <div>MENU</div>
+        <div className={styles.title}>MENU</div>
       </div>
     </div>
   );
