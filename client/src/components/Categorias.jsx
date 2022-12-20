@@ -4,9 +4,9 @@ import { ImGlass2 } from "react-icons/im";
 import styles from "../styles/Categorias.module.scss";
 import { useState } from "react";
 
-function Categorias() {
+function Categorias({ handleActive }) {
   const [index, setindex] = useState({
-    opcionActiva: null,
+    opcionActiva: "menu",
   });
 
   const handleClick = (evento) => {
@@ -14,6 +14,7 @@ function Categorias() {
       ...index,
       opcionActiva: evento,
     });
+    handleActive(evento);
   };
   return (
     <div className={styles.iconosCategoria}>
@@ -68,15 +69,15 @@ function Categorias() {
         <div className={styles.title}>TRAGOS</div>
       </div>
 
-      <div className={styles.item} onClick={() => handleClick("postre")}>
+      <div className={styles.item} onClick={() => handleClick("postres")}>
         <div
           className={
-            index.opcionActiva === "postre" ? styles.activo : styles.contIcon
+            index.opcionActiva === "postres" ? styles.activo : styles.contIcon
           }
         >
           <FaIceCream
             style={
-              index.opcionActiva === "postre"
+              index.opcionActiva === "postres"
                 ? { fill: "#F7F7F2" }
                 : { fill: "#222725" }
             }

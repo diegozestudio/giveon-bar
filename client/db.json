@@ -1,6 +1,5 @@
 {
   "menu": {
-    "icono": "ImSpoonKnife",
     "subCategorias": {
       "entradas": [
         {
@@ -29,7 +28,6 @@
     }
   },
   "bebidas": {
-    "icono": "ImSpoonKnife",
     "subCategorias": {
       "con alcohol": [
         {
@@ -56,5 +54,13 @@
         }
       ]
     }
+  },
+
+  "tragos": {
+    "subCategorias": {}
+  },
+
+  "postres": {
+    "subCategorias": {}
   }
 }
