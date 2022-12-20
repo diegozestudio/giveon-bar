@@ -44,8 +44,8 @@ function Categorias({ handleActive }) {
           <FaWineBottle
             style={
               index.opcionActiva === "bebidas"
-                ? { fill: "#F7F7F2" }
-                : { fill: "#222725" }
+                ? { fill: "#F7F7F2", transform: "rotate(-45deg)" }
+                : { fill: "#222725", transform: "rotate(-45deg)" }
             }
           />
         </div>

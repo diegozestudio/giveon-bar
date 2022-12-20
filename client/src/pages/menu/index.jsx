@@ -4,6 +4,7 @@ import Categorias from "../../components/Categorias";
 import styles from "../../styles/menu.module.scss";
 import db from "../../../db.json";
 import { useState } from "react";
+import SubCategoria from "../../components/SubCategoria";
 
 function index() {
   const [categoriaActiva, setcategoriaActiva] = useState({
@@ -29,11 +30,18 @@ function index() {
         </div>
 
         <Categorias handleActive={handleActive}></Categorias>
-
+        <div className={styles.linea} />
         <div>
           {Object.keys(db[categoriaActiva.opcionActiva].subCategorias).map(
             (p) => {
-              return <div>{p}</div>;
+              return (
+                <div>
+                  <SubCategoria
+                    nombre={p}
+                    comidas={db[categoriaActiva.opcionActiva].subCategorias[p]}
+                  ></SubCategoria>
+                </div>
+              );
             }
           )}
         </div>
