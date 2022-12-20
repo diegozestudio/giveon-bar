@@ -1,0 +1,60 @@
+{
+  "menu": {
+    "icono": "ImSpoonKnife",
+    "subCategorias": {
+      "entradas": [
+        {
+          "nombre": "Papas Fritas",
+          "precio": 900,
+          "descripción": "Papas fritas comunes"
+        },
+        {
+          "nombre": "Rabas",
+          "precio": 1500,
+          "descripción": "Rabas rebozadas"
+        }
+      ],
+      "lomitos": [
+        {
+          "nombre": "Lomito",
+          "precio": 1000,
+          "descripción": "Lomito completo en pan francés"
+        },
+        {
+          "nombre": "Lomito especial",
+          "precio": 1200,
+          "descripción": "Lomito completo especial en pan francés"
+        }
+      ]
+    }
+  },
+  "bebidas": {
+    "icono": "ImSpoonKnife",
+    "subCategorias": {
+      "con alcohol": [
+        {
+          "nombre": "Vino tinto Malbec",
+          "precio": 2000,
+          "descripción": ""
+        },
+        {
+          "nombre": "Fernet",
+          "precio": 1500,
+          "descripción": "Medida de fernet"
+        }
+      ],
+      "sin alcohol": [
+        {
+          "nombre": "Agua sin gas",
+          "precio": 500,
+          "descripción": ""
+        },
+        {
+          "nombre": "Gaseosa",
+          "precio": 1000,
+          "descripción": "Linea pepsi"
+        }
+      ]
+    }
+  }
+}

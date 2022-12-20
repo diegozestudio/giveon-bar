@@ -1,3 +1,8 @@
+.iconosCategoria {
+  display: flex;
+  gap: 2rem;
+}
+
 .item {
   display: flex;
   flex-direction: column;
@@ -15,4 +20,11 @@
     font-weight: 600;
     font-size: 14px;
   }
+}
+
+.activo {
+  background-color: #899878;
+  padding: 1rem;
+  font-size: 30px;
+  border-radius: 50px;
 }
