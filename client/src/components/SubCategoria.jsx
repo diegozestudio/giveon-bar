@@ -29,7 +29,7 @@ function SubCategoria({ nombre, comidas }) {
         <div className={styles.contComidas}>
           {comidas.map((p) => {
             return (
-              <div className={styles.comida}>
+              <div className={styles.comida} key={p.nombre}>
                 <div>
                   <div className={styles.name}>{p.nombre}</div>
                   <div className={styles.descripcion}>{p.descripción}</div>

@@ -35,12 +35,11 @@ function index() {
           {Object.keys(db[categoriaActiva.opcionActiva].subCategorias).map(
             (p) => {
               return (
-                <div>
-                  <SubCategoria
-                    nombre={p}
-                    comidas={db[categoriaActiva.opcionActiva].subCategorias[p]}
-                  ></SubCategoria>
-                </div>
+                <SubCategoria
+                  nombre={p}
+                  comidas={db[categoriaActiva.opcionActiva].subCategorias[p]}
+                  key={p}
+                ></SubCategoria>
               );
             }
           )}
