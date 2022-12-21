@@ -26,25 +26,28 @@ function index() {
       </Head>
 
       <main className={styles.container}>
-        <div className={styles.contImg}>
-          <img src="/icono-giveon-2.svg" alt="logo-giveon" />
+        <div className={styles.contTop}>
+          <div className={styles.contImg}>
+            <img src="/icono-giveon-2.svg" alt="logo-giveon" />
+          </div>
+
+          <Categorias handleActive={handleActive}></Categorias>
+          <div className={styles.linea} />
+          <div className={styles.contSubCategorias}>
+            {Object.keys(db[categoriaActiva.opcionActiva].subCategorias).map(
+              (p) => {
+                return (
+                  <SubCategoria
+                    nombre={p}
+                    comidas={db[categoriaActiva.opcionActiva].subCategorias[p]}
+                    key={p}
+                  ></SubCategoria>
+                );
+              }
+            )}
+          </div>
         </div>
 
-        <Categorias handleActive={handleActive}></Categorias>
-        <div className={styles.linea} />
-        <div className={styles.contSubCategorias}>
-          {Object.keys(db[categoriaActiva.opcionActiva].subCategorias).map(
-            (p) => {
-              return (
-                <SubCategoria
-                  nombre={p}
-                  comidas={db[categoriaActiva.opcionActiva].subCategorias[p]}
-                  key={p}
-                ></SubCategoria>
-              );
-            }
-          )}
-        </div>
         <RedesSociales></RedesSociales>
       </main>
     </>

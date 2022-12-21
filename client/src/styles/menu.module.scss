@@ -1,29 +1,28 @@
 .container {
   display: flex;
   flex-direction: column;
-  margin-top: 2.5rem;
+  min-height: 100vh;
+  justify-content: space-between;
 
-  .contImg {
-    margin-bottom: 4rem;
-    max-width: 250px;
-    margin: auto;
-
-    img {
-      width: 100%;
+  .contTop {
+    .contImg {
+      padding-block: 2rem;
+      display: flex;
+      justify-content: center;
     }
-  }
 
-  .linea {
-    width: 100%;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-    background-color: #fff;
-    border: 1.5px solid #fff;
-  }
+    .linea {
+      width: 100%;
+      background-color: #fff;
+      border: 1.5px solid #fff;
+      margin-top: 1rem;
+    }
 
-  .contSubCategorias {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
+    .contSubCategorias {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      padding-top: 2rem;
+    }
   }
 }
