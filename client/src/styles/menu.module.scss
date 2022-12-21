@@ -3,9 +3,20 @@
   flex-direction: column;
   margin-top: 2.5rem;
 
+  .contImg {
+    margin-bottom: 4rem;
+    max-width: 250px;
+    margin: auto;
+
+    img {
+      width: 100%;
+    }
+  }
+
   .linea {
     width: 100%;
-    margin-block: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
     background-color: #fff;
     border: 1.5px solid #fff;
   }
@@ -13,14 +24,6 @@
   .contSubCategorias {
     display: flex;
     flex-direction: column;
-  }
-
-  .contImg {
-    margin-bottom: 4rem;
-    max-width: 250px;
-    margin: auto;
-    img {
-      width: 100%;
-    }
+    gap: 2rem;
   }
 }
