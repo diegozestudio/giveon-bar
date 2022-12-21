@@ -19,7 +19,10 @@ function SubCategoria({ nombre, comidas }) {
         <div className={styles.tituloSubCat}>
           {nombre[0].toUpperCase() + nombre.slice(1)}
         </div>
-        <IoIosArrowDown fill="#222725" className={styles.icono} />
+        <IoIosArrowDown
+          fill="#222725"
+          className={`${styles.icono} ${isOpen && styles.iconoRotate}`}
+        />
       </div>
 
       {isOpen && (
