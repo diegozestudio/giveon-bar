@@ -11,12 +11,11 @@ function SubCategoria({ nombre, comidas }) {
 
   return (
     <div
-      onClick={handleClick}
       className={`${styles.selectorAbierto} ${
         !isOpen && styles.selectorCerrado
       }`}
     >
-      <div className={styles.contTituloIcono}>
+      <div className={styles.contTituloIcono} onClick={handleClick}>
         <div className={styles.tituloSubCat}>
           {nombre[0].toUpperCase() + nombre.slice(1)}
         </div>
