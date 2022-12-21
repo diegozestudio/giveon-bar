@@ -1,6 +1,8 @@
 .iconosCategoria {
   display: flex;
   gap: 2rem;
+  margin: auto;
+  margin-top: 2rem;
 }
 
 .item {
@@ -10,7 +12,11 @@
   gap: 1rem;
 
   .contIcon {
-    padding: 1rem;
+    min-width: 3.25rem;
+    min-height: 3.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #fff;
     font-size: 30px;
     border-radius: 50px;
@@ -24,7 +30,11 @@
 
 .activo {
   background-color: #899878;
-  padding: 1rem;
+  min-width: 3.25rem;
+  min-height: 3.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 30px;
   border-radius: 50px;
 }

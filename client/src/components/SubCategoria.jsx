@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { IoIosArrowDown } from "react-icons/io";
+import styles from "../styles/SubCategoria.module.scss";
 
 function SubCategoria({ nombre, comidas }) {
   const [isOpen, setisOpen] = useState(false);
@@ -8,15 +10,29 @@ function SubCategoria({ nombre, comidas }) {
   };
 
   return (
-    <div>
-      <div>{nombre}</div>
-      <div onClick={handleClick}>Abrir</div>
+    <div
+      onClick={handleClick}
+      className={`${styles.selectorAbierto} ${
+        !isOpen && styles.selectorCerrado
+      }`}
+    >
+      <div className={styles.contTituloIcono}>
+        <div className={styles.tituloSubCat}>
+          {nombre[0].toUpperCase() + nombre.slice(1)}
+        </div>
+        <IoIosArrowDown fill="#222725" className={styles.icono} />
+      </div>
+
       {isOpen && (
-        <div>
+        <div className={styles.contComidas}>
           {comidas.map((p) => {
             return (
-              <div>
-                {p.nombre} {p.precio}
+              <div className={styles.comida}>
+                <div>
+                  <div className={styles.name}>{p.nombre}</div>
+                  <div className={styles.descripcion}>{p.descripción}</div>
+                </div>
+                <div className={styles.name}>${p.precio}</div>
               </div>
             );
           })}

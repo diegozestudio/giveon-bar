@@ -31,7 +31,7 @@ function index() {
 
         <Categorias handleActive={handleActive}></Categorias>
         <div className={styles.linea} />
-        <div>
+        <div className={styles.contSubCategorias}>
           {Object.keys(db[categoriaActiva.opcionActiva].subCategorias).map(
             (p) => {
               return (
@@ -44,10 +44,6 @@ function index() {
               );
             }
           )}
-        </div>
-
-        <div>
-          <Link href="/">Volver a Home</Link>
         </div>
       </main>
     </>

@@ -1,0 +1,58 @@
+.selectorAbierto {
+  background-color: #fafafa;
+  padding: 1rem;
+  border-radius: 25px;
+  margin-inline: 1rem;
+  margin-bottom: 1rem;
+}
+
+.selectorCerrado {
+  border-radius: 100px;
+  margin-top: 2rem;
+  background-color: #fafafa;
+  margin-bottom: 1rem;
+}
+
+.contTituloIcono {
+  display: flex;
+  align-items: center;
+  padding-inline: 1rem;
+
+  .tituloSubCat {
+    color: #222725;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    flex-grow: 1;
+  }
+
+  .icono {
+    font-size: 18px;
+  }
+}
+
+.name {
+  color: #222725;
+  font-weight: 500;
+}
+
+.contComidas {
+  border-top: 1px solid rgba(46, 52, 46, 0.5);
+  margin-top: 1rem;
+}
+
+.comida {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid rgba(34, 39, 37, 0.1);
+  &:last-child {
+    border: none;
+  }
+}
+
+.descripcion {
+  font-size: 12px;
+  color: #222725;
+}
