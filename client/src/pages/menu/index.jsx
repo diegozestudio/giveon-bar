@@ -5,6 +5,7 @@ import styles from "../../styles/menu.module.scss";
 import db from "../../../db.json";
 import { useState } from "react";
 import SubCategoria from "../../components/SubCategoria";
+import RedesSociales from "../../components/RedesSociales";
 
 function index() {
   const [categoriaActiva, setcategoriaActiva] = useState({
@@ -44,6 +45,7 @@ function index() {
             }
           )}
         </div>
+        <RedesSociales></RedesSociales>
       </main>
     </>
   );
