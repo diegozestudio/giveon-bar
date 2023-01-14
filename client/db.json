@@ -57,7 +57,135 @@
   },
 
   "tragos": {
-    "subCategorias": {}
+    "subCategorias": {
+      "tragos": [
+        {
+          "nombre": "Fernet Branca",
+          "precio": 1,
+          "descripción": "Fernet Branca con Coca Cola"
+        },
+        {
+          "nombre": "Medida Whisky",
+          "precio": 1,
+          "descripción": "Whisky Jhonnie Walker Red Label / Black Label / Jack Daniels"
+        },
+        {
+          "nombre": "Shot de Tequila",
+          "precio": 1,
+          "descripción": "Tequila José Cuervo, limón y sal"
+        },
+        {
+          "nombre": "Vodka con naranja",
+          "precio": 1,
+          "descripción": "Vodka Absolut / Smirnoff y jugo de naranja"
+        },
+        {
+          "nombre": "Vodka con energizante",
+          "precio": 1,
+          "descripción": "Vodka Absolut / Smirnoff y energizante"
+        },
+        {
+          "nombre": "Gin Tonic",
+          "precio": 1,
+          "descripción": "Gin Tanqueray / Beefeater y agua tonica"
+        },
+        {
+          "nombre": "Campari Orange",
+          "precio": 1,
+          "descripción": "Campari con jugo de naranja"
+        },
+        {
+          "nombre": "Jagerbomb",
+          "precio": 1,
+          "descripción": "Jägermeister y energizante"
+        },
+        {
+          "nombre": "Jagerhina",
+          "precio": 1,
+          "descripción": "Jägermeister, limon y azucar"
+        },
+        {
+          "nombre": "Jagerjulep",
+          "precio": 1,
+          "descripción": "Jägermeister, limon, azucar, menta y pomelo"
+        },
+        {
+          "nombre": "Cuba Libre",
+          "precio": 1,
+          "descripción": "Ron Havana Club y Coca Cola"
+        },
+        {
+          "nombre": "Mojito",
+          "precio": 1,
+          "descripción": "Ron Havana Club, azucar, limon, menta y soda"
+        },
+        {
+          "nombre": "Zombie",
+          "precio": 1,
+          "descripción": "Ron / Ron Añejo / Ron Oscuro, almibar, granadina, ananá y naranja"
+        },
+        {
+          "nombre": "Caipis",
+          "precio": 1,
+          "descripción": "Vodka, Ron, Cachaca, azucar y limon"
+        },
+        {
+          "nombre": "Cosmopolitan",
+          "precio": 1,
+          "descripción": "Vodka, licor de naranja, limon y jugo de arandanos"
+        },
+        {
+          "nombre": "Sex On The Beach",
+          "precio": 1,
+          "descripción": "Vodka, licor de durazno, jugo de naranja y granadina"
+        },
+        {
+          "nombre": "Aperol Spritz",
+          "precio": 1,
+          "descripción": "Aperol, espumante y soda"
+        },
+        {
+          "nombre": "Tequila Sunrise",
+          "precio": 1,
+          "descripción": "Tequila José Cuervo, jugo de naranja y granadina"
+        },
+        {
+          "nombre": "Margarita",
+          "precio": 1,
+          "descripción": "Tequila José Cuervo, licor de naranja y limon"
+        },
+        {
+          "nombre": "Mudslide",
+          "precio": 1,
+          "descripción": "Baileys, licor de café, vodka, helado de crema americana"
+        },
+        {
+          "nombre": "Penicilin",
+          "precio": 1,
+          "descripción": "Whisky Bourbon, limon, miel y jengibre"
+        },
+        {
+          "nombre": "Old Fashioned",
+          "precio": 1,
+          "descripción": "Whisky Bourbon, Bitter Angostura y azucar"
+        },
+        {
+          "nombre": "Manhattan",
+          "precio": 1,
+          "descripción": "Whisky Bourbon, Carpano y Bitter Angostura"
+        },
+        {
+          "nombre": "Negroni",
+          "precio": 1,
+          "descripción": "Gin, Campari, Carpano"
+        },
+        {
+          "nombre": "Martini",
+          "precio": 1,
+          "descripción": "Gin, Vermut seco"
+        }
+      ]
+    }
   },
 
   "postres": {
