@@ -130,27 +130,27 @@
         {
           "nombre": "Simple",
           "precio": 3000,
-          "descripción": "(Para compartir) Milanesa de ternera"
+          "descripción": "(Para compartir) Milanesa de ternera, con papas rústicas o puré de papa"
         },
         {
           "nombre": "Napolitana",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes"
+          "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes. Con papas rústicas o puré de papa"
         },
         {
           "nombre": "Cuatro Quesos",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere"
+          "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere. Con papas rústicas o puré de papa"
         },
         {
           "nombre": "A Caballo",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima"
+          "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima. Con papas rústicas o puré de papa"
         },
         {
           "nombre": "Cheddar y Panceta",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta"
+          "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta. Con papas rústicas o puré de papa"
         }
       ],
       "Ensaladas": [
