@@ -111,6 +111,11 @@
       ],
       "Carnes al Plato": [
         {
+          "nombre": "Entraña",
+          "precio": 2500,
+          "descripción": "400gr de entraña, acompañado con papas rusticas, verduras salteadas o puré de papas"
+        },
+        {
           "nombre": "Lomo Giveon",
           "precio": 2500,
           "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas, verduras salteadas o puré de papas"
@@ -119,11 +124,6 @@
           "nombre": "Ribbs a la Barbacoa",
           "precio": 2800,
           "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas, verduras salteadas o puré de papas"
-        },
-        {
-          "nombre": "Entraña",
-          "precio": 2000,
-          "descripción": "400gr de entraña, acompañado con papas rusticas, verduras salteadas o puré de papas"
         }
       ],
       "Milanesa de Bodegón": [
@@ -189,6 +189,11 @@
           "nombre": "Agua Saborizada",
           "precio": 300,
           "descripción": ""
+        },
+        {
+          "nombre": "Limonada",
+          "precio": 400,
+          "descripción": "Limonada de Menta y Jengibre"
         },
         {
           "nombre": "Jarra de Limonada",
@@ -258,14 +263,13 @@
         {
           "nombre": "Medida Whisky",
           "precio": 2500,
-          "descripción": "Whisky Jhonnie Walker Red Label / Black Label"
+          "descripción": "Jhonnie Walker Red Label"
         },
         {
           "nombre": "Medida Whisky",
           "precio": 3000,
-          "descripción": "Whisky Jack Daniels"
-        },
-       
+          "descripción": "Jack Daniels"
+        },       
         {
           "nombre": "Vodka Absolut con naranja",
           "precio": 900,
