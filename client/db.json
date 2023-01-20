@@ -174,28 +174,74 @@
   },
   "bebidas": {
     "subCategorias": {
-      "con alcohol": [
+      "Bebidas sin alcohol": [
         {
-          "nombre": "Vino tinto Malbec",
-          "precio": 2000,
+          "nombre": "Gaseosa linea Pepsi",
+          "precio": 400,
           "descripción": ""
         },
         {
-          "nombre": "Fernet",
-          "precio": 1500,
-          "descripción": "Medida de fernet"
+          "nombre": "Agua Mineral",
+          "precio": 300,
+          "descripción": ""
+        },
+        {
+          "nombre": "Agua Saborizada",
+          "precio": 300,
+          "descripción": ""
+        },
+        {
+          "nombre": "Jarra de Limonada",
+          "precio": 800,
+          "descripción": "Limonada de Menta y Jengibre"
         }
       ],
-      "sin alcohol": [
+      "Cervezas": [
         {
-          "nombre": "Agua sin gas",
+          "nombre": "Corona Monjita",
+          "precio": 700,
+          "descripción": ""
+        },
+        {
+          "nombre": "Corona Grande",
+          "precio": 1100,
+          "descripción": ""
+        },
+        {
+          "nombre": "Stella Artois 1Lt",
+          "precio": 1200,
+          "descripción": "Rubia / Noire"
+        }
+      ],
+      "Cerveza Artesanal": [
+        {
+          "nombre": "Craft Beer Golden",
           "precio": 500,
           "descripción": ""
         },
         {
-          "nombre": "Gaseosa",
-          "precio": 1000,
-          "descripción": "Linea pepsi"
+          "nombre": "Craft Beer IPA",
+          "precio": 500,
+          "descripción": ""
+        }
+      ],
+      "Vinos": [
+        {
+          "nombre": "Dolores Navarro Correa Malbec",
+          "precio": 2500,
+          "descripción": ""
+        },
+        {
+          "nombre": "Santa Julia Dulce Chenin",
+          "precio": 2500,
+          "descripción": ""
+        }
+      ],
+      "Espumantes": [
+        {
+          "nombre": "Champage Norton Cosecha Especial",
+          "precio": 2800,
+          "descripción": ""
         }
       ]
     }
@@ -211,8 +257,13 @@
         },
         {
           "nombre": "Medida Whisky",
-          "precio": [2500, " / ", "$", 3000],
-          "descripción": "Whisky Jhonnie Walker Red Label / Black Label / Jack Daniels"
+          "precio": 2500,
+          "descripción": "Whisky Jhonnie Walker Red Label / Black Label"
+        },
+        {
+          "nombre": "Medida Whisky",
+          "precio": 3000,
+          "descripción": "Whisky Jack Daniels"
         },
         {
           "nombre": "Shot de Tequila",
@@ -220,19 +271,34 @@
           "descripción": "Tequila José Cuervo, limón y sal"
         },
         {
-          "nombre": "Vodka con naranja",
-          "precio": [900, " / ", "$", 800],
-          "descripción": "Vodka Absolut / Smirnoff y jugo de naranja"
+          "nombre": "Vodka Absolut con naranja",
+          "precio": 900,
+          "descripción": "Vodka Absolut y jugo de naranja"
         },
         {
-          "nombre": "Vodka con energizante",
-          "precio": [900, " / ", "$", 800],
-          "descripción": "Vodka Absolut / Smirnoff y energizante"
+          "nombre": "Vodka Smirnoff con naranja",
+          "precio": 800,
+          "descripción": "Vodka Smirnoff y jugo de naranja"
         },
         {
-          "nombre": "Gin Tonic",
-          "precio": [900, " / ", "$", 800],
-          "descripción": "Gin Tanqueray / Beefeater y agua tonica"
+          "nombre": "Vodka Absolut con energizante",
+          "precio": 900,
+          "descripción": "Vodka Absolut y energizante"
+        },
+        {
+          "nombre": "Vodka Smirnoff con energizante",
+          "precio": 800,
+          "descripción": "Vodka Smirnoff y energizante"
+        },
+        {
+          "nombre": "Gin Tonic Tanqueray",
+          "precio": 900,
+          "descripción": "Gin Tanqueray y agua tonica"
+        },
+        {
+          "nombre": "Gin Tonic Beefeater",
+          "precio": 800,
+          "descripción": "Gin Beefeater y agua tonica"
         },
         {
           "nombre": "Campari Orange",

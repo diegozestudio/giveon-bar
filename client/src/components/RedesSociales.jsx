@@ -17,8 +17,8 @@ function RedesSociales() {
 
       <div className={styles.lineaRedes}>
         <BsWhatsapp className={styles.icon} />{" "}
-        <a href="https://wa.me/5493854980033" target="_blank" rel="noreferrer">
-          +3854 980033
+        <a href="https://wa.me/5493855867396" target="_blank" rel="noreferrer">
+          3855 867-396
         </a>
       </div>
     </div>
