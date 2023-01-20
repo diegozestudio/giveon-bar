@@ -122,7 +122,7 @@
         },
         {
           "nombre": "Entraña",
-          "precio": 2000,
+          "precio": 2500,
           "descripción": "400gr de entraña, acompañado con papas rusticas, verduras salteadas o puré de papas"
         }
       ],
@@ -258,7 +258,7 @@
         {
           "nombre": "Medida Whisky",
           "precio": 2500,
-          "descripción": "Whisky Jhonnie Walker Red Label / Black Label"
+          "descripción": "Whisky Jhonnie Walker Red Label"
         },
         {
           "nombre": "Medida Whisky",
