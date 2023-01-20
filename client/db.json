@@ -266,11 +266,6 @@
           "descripción": "Whisky Jack Daniels"
         },
         {
-          "nombre": "Shot de Tequila",
-          "precio": 800,
-          "descripción": "Tequila José Cuervo, limón y sal"
-        },
-        {
           "nombre": "Vodka Absolut con naranja",
           "precio": 900,
           "descripción": "Vodka Absolut y jugo de naranja"
