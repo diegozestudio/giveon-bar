@@ -176,9 +176,9 @@
     "subCategorias": {
       "Bebidas sin alcohol": [
         {
-          "nombre": "Gaseosa linea Pepsi",
+          "nombre": "Gaseosa",
           "precio": 400,
-          "descripción": ""
+          "descripción": "Linea Pepsi"
         },
         {
           "nombre": "Agua Mineral",
