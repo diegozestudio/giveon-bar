@@ -3,26 +3,41 @@
     "subCategorias": {
       "entradas": [
         {
-          "nombre": "Papas Fritas",
+          "nombre": "Papas Bravas",
           "precio": 900,
-          "descripción": "Papas fritas comunes"
+          "descripción": "Papas fritas, panceta grillada, queso cheddar"
+        },
+        {
+          "nombre": "Bastones de Mozzarella",
+          "precio": 1500,
+          "descripción": "Con dip de salsa fileto"
         },
         {
           "nombre": "Rabas",
-          "precio": 1500,
-          "descripción": "Rabas rebozadas"
+          "precio": 2000,
+          "descripción": "Rebozadas, con mayonesa casera y limón"
+        },
+        {
+          "nombre": "Langostinos",
+          "precio": 2000,
+          "descripción": "Rebozados en panko, con dip de mostaza y miel"
         }
       ],
       "lomitos": [
         {
-          "nombre": "Lomito",
-          "precio": 1000,
-          "descripción": "Lomito completo en pan francés"
+          "nombre": "Lomito Simple",
+          "precio": 1500,
+          "descripción": "150gr de lomo, queso tybo, tomate y lechuga"
         },
         {
-          "nombre": "Lomito especial",
-          "precio": 1200,
-          "descripción": "Lomito completo especial en pan francés"
+          "nombre": "Lomito Completo",
+          "precio": 1600,
+          "descripción": "150gr de lomo, jamón cocido, queso tybo, huevo, tomate y lechuga"
+        },
+        {
+          "nombre": "Lomito Cuatro Quesos",
+          "precio": 1700,
+          "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ]
     }
@@ -61,127 +76,127 @@
       "tragos": [
         {
           "nombre": "Fernet Branca",
-          "precio": 1,
+          "precio": 1200,
           "descripción": "Fernet Branca con Coca Cola"
         },
         {
           "nombre": "Medida Whisky",
-          "precio": 1,
+          "precio": [2500, " / ", "$", 3000],
           "descripción": "Whisky Jhonnie Walker Red Label / Black Label / Jack Daniels"
         },
         {
           "nombre": "Shot de Tequila",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Tequila José Cuervo, limón y sal"
         },
         {
           "nombre": "Vodka con naranja",
-          "precio": 1,
+          "precio": [900, " / ", "$", 800],
           "descripción": "Vodka Absolut / Smirnoff y jugo de naranja"
         },
         {
           "nombre": "Vodka con energizante",
-          "precio": 1,
+          "precio": [900, " / ", "$", 800],
           "descripción": "Vodka Absolut / Smirnoff y energizante"
         },
         {
           "nombre": "Gin Tonic",
-          "precio": 1,
+          "precio": [900, " / ", "$", 800],
           "descripción": "Gin Tanqueray / Beefeater y agua tonica"
         },
         {
           "nombre": "Campari Orange",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Campari con jugo de naranja"
         },
         {
           "nombre": "Jagerbomb",
-          "precio": 1,
+          "precio": 1000,
           "descripción": "Jägermeister y energizante"
         },
         {
           "nombre": "Jagerhina",
-          "precio": 1,
+          "precio": 1000,
           "descripción": "Jägermeister, limon y azucar"
         },
         {
           "nombre": "Jagerjulep",
-          "precio": 1,
+          "precio": 1000,
           "descripción": "Jägermeister, limon, azucar, menta y pomelo"
         },
         {
           "nombre": "Cuba Libre",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Ron Havana Club y Coca Cola"
         },
         {
           "nombre": "Mojito",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Ron Havana Club, azucar, limon, menta y soda"
         },
         {
           "nombre": "Zombie",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Ron / Ron Añejo / Ron Oscuro, almibar, granadina, ananá y naranja"
         },
         {
           "nombre": "Caipis",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Vodka, Ron, Cachaca, azucar y limon"
         },
         {
           "nombre": "Cosmopolitan",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Vodka, licor de naranja, limon y jugo de arandanos"
         },
         {
           "nombre": "Sex On The Beach",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Vodka, licor de durazno, jugo de naranja y granadina"
         },
         {
           "nombre": "Aperol Spritz",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Aperol, espumante y soda"
         },
         {
           "nombre": "Tequila Sunrise",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Tequila José Cuervo, jugo de naranja y granadina"
         },
         {
           "nombre": "Margarita",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Tequila José Cuervo, licor de naranja y limon"
         },
         {
           "nombre": "Mudslide",
-          "precio": 1,
+          "precio": 1000,
           "descripción": "Baileys, licor de café, vodka, helado de crema americana"
         },
         {
           "nombre": "Penicilin",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Whisky Bourbon, limon, miel y jengibre"
         },
         {
           "nombre": "Old Fashioned",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Whisky Bourbon, Bitter Angostura y azucar"
         },
         {
           "nombre": "Manhattan",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Whisky Bourbon, Carpano y Bitter Angostura"
         },
         {
           "nombre": "Negroni",
-          "precio": 1,
+          "precio": 800,
           "descripción": "Gin, Campari, Carpano"
         },
         {
           "nombre": "Martini",
-          "precio": 1,
+          "precio": 900,
           "descripción": "Gin, Vermut seco"
         }
       ]
