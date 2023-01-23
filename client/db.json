@@ -113,17 +113,17 @@
         {
           "nombre": "Lomo Giveon",
           "precio": 2500,
-          "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas, verduras salteadas o puré de papas"
+          "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas o verduras salteadas o puré de papas"
         },
         {
           "nombre": "Ribbs a la Barbacoa",
           "precio": 2800,
-          "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas, verduras salteadas o puré de papas"
+          "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas o verduras salteadas o puré de papas"
         },
         {
           "nombre": "Entraña",
           "precio": 2500,
-          "descripción": "400gr de entraña, acompañado con papas rusticas, verduras salteadas o puré de papas"
+          "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas o puré de papas"
         }
       ],
       "Milanesa de Bodegón": [
@@ -256,6 +256,11 @@
           "descripción": "Fernet Branca con Coca Cola"
         },
         {
+          "nombre": "Shot de Tequila",
+          "precio": 2400,
+          "descripción": "Tequila Jose Cuervo, limon y sal"
+        },
+        {
           "nombre": "Medida Whisky",
           "precio": 2500,
           "descripción": "Whisky Jhonnie Walker Red Label"
@@ -263,7 +268,7 @@
         {
           "nombre": "Medida Whisky",
           "precio": 3000,
-          "descripción": "Whisky Jack Daniels"
+          "descripción": "Whisky Jack Daniels / Jhonnie Walker Black Label"
         },
         {
           "nombre": "Vodka Absolut con naranja",
@@ -327,7 +332,7 @@
         },
         {
           "nombre": "Zombie",
-          "precio": 900,
+          "precio": 1000,
           "descripción": "Ron / Ron Añejo / Ron Oscuro, almibar, granadina, ananá y naranja"
         },
         {
@@ -367,22 +372,22 @@
         },
         {
           "nombre": "Penicilin",
-          "precio": 900,
+          "precio": 1100,
           "descripción": "Whisky Bourbon, limon, miel y jengibre"
         },
         {
           "nombre": "Old Fashioned",
-          "precio": 900,
+          "precio": 1100,
           "descripción": "Whisky Bourbon, Bitter Angostura y azucar"
         },
         {
           "nombre": "Manhattan",
-          "precio": 900,
+          "precio": 1100,
           "descripción": "Whisky Bourbon, Carpano y Bitter Angostura"
         },
         {
           "nombre": "Negroni",
-          "precio": 800,
+          "precio": 900,
           "descripción": "Gin, Campari, Carpano"
         },
         {
