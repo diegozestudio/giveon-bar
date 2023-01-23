@@ -32,29 +32,32 @@
   }
 }
 
-.name {
-  color: #222725;
-  font-weight: 500;
-}
-
 .contComidas {
   border-top: 1px solid rgba(46, 52, 46, 0.5);
   margin-top: 1rem;
-}
-
-.comida {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 1rem;
-  border-bottom: 1px solid rgba(34, 39, 37, 0.1);
-  &:last-child {
-    border: none;
+  .comida {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0.8rem;
+    border-bottom: 1px solid rgba(34, 39, 37, 0.1);
+    gap: 1rem;
+    &:last-child {
+      border: none;
+    }
+    .contText {
+      .name {
+        color: #222725;
+        font-weight: 500;
+      }
+      .descripcion {
+        font-size: 12px;
+        color: #222725;
+      }
+    }
+    .price {
+      color: #222725;
+      font-weight: 500;
+    }
   }
-}
-
-.descripcion {
-  font-size: 12px;
-  color: #222725;
-  width: 90%;
 }
