@@ -113,7 +113,7 @@
         {
           "nombre": "Entraña",
           "precio": 2500,
-          "descripción": "400gr de entraña, acompañado con papas rusticas, verduras salteadas o puré de papas"
+          "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas o puré de papas"
         },
         {
           "nombre": "Lomo Giveon",
@@ -124,11 +124,6 @@
           "nombre": "Ribbs a la Barbacoa",
           "precio": 2800,
           "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas o verduras salteadas o puré de papas"
-        },
-        {
-          "nombre": "Entraña",
-          "precio": 2500,
-          "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas o puré de papas"
         }
       ],
       "Milanesa de Bodegón": [
@@ -172,7 +167,7 @@
         {
           "nombre": "Ensalada Giveon",
           "precio": 1200,
-          "descripción": "Rúcula, apio, pera, queso azul y nueces"
+          "descripción": "Rúcula, pera, queso azul y nueces"
         }
       ]
     }
