@@ -1,20 +1,27 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    align-items: center;
-    margin-top: 5rem;
-    
-    .title {
-        font-weight: 500;
-        margin-bottom: 3rem;
-        font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  margin-top: 5rem;
+  .title {
+    font-weight: 500;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+  }
+  .contImg {
+    margin-bottom: 4rem;
+    max-width: 400px;
+    img {
+      width: 100%;
     }
-    .contImg {
-        margin-bottom: 4rem;
-        max-width: 400px;
-        img {
-            width: 100%;
-        }
-    }
+  }
+
+  .menu {
+    border: 2px solid #fff;
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    font-weight: 600;
+    margin-bottom: 3rem;
+  }
 }
