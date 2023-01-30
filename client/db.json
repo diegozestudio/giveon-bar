@@ -113,44 +113,44 @@
         {
           "nombre": "Entraña",
           "precio": 2500,
-          "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas o puré de papas"
+          "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas"
         },
         {
           "nombre": "Lomo Giveon",
           "precio": 2500,
-          "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas o verduras salteadas o puré de papas"
+          "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas o verduras salteadas"
         },
         {
           "nombre": "Ribbs a la Barbacoa",
           "precio": 2800,
-          "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas o verduras salteadas o puré de papas"
+          "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas o verduras salteadas"
         }
       ],
       "Milanesa de Bodegón": [
         {
           "nombre": "Simple",
           "precio": 3000,
-          "descripción": "(Para compartir) Milanesa de ternera, con papas rústicas o puré de papa"
+          "descripción": "(Para compartir) Milanesa de ternera, con papas rústicas"
         },
         {
           "nombre": "Napolitana",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes. Con papas rústicas o puré de papa"
+          "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes. Con papas rústicas"
         },
         {
           "nombre": "Cuatro Quesos",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere. Con papas rústicas o puré de papa"
+          "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere. Con papas rústicas"
         },
         {
           "nombre": "A Caballo",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima. Con papas rústicas o puré de papa"
+          "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima. Con papas rústicas"
         },
         {
           "nombre": "Cheddar y Panceta",
           "precio": 3300,
-          "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta. Con papas rústicas o puré de papa"
+          "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta. Con papas rústicas"
         }
       ],
       "Ensaladas": [
