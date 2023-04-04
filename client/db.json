@@ -4,12 +4,12 @@
       "entradas": [
         {
           "nombre": "Papas Bravas",
-          "precio": 1200,
+          "precio": 1400,
           "descripción": "Papas fritas, panceta grillada, queso cheddar"
         },
         {
           "nombre": "Bastones de Mozzarella",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Con dip de salsa fileto"
         },
         {
@@ -19,93 +19,93 @@
         },
         {
           "nombre": "Langostinos",
-          "precio": 2400,
+          "precio": 2500,
           "descripción": "Rebozados en panko, con dip de mostaza y miel"
         }
       ],
       "lomitos": [
         {
           "nombre": "Lomito Simple",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "150gr de lomo, queso tybo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Completo",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "150gr de lomo, jamón cocido, queso tybo, huevo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Cuatro Quesos",
-          "precio": 1900,
+          "precio": 2100,
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
       "Hamburguesas": [
         {
           "nombre": "Hamburguesa Comun",
-          "precio": 1500,
+          "precio": 1600,
           "descripción": "Medallón de carne vacuna 110gr, queso tybo, tomate, lechuga"
         },
         {
           "nombre": "Hamburguesa Completa",
-          "precio": 1600,
+          "precio": 1700,
           "descripción": "Medallón de carne vacuna 110gr, jamón cocido, queso tybo, huevo, tomate, lechuga"
         },
         {
           "nombre": "Hamburguesa Cuatro Quesos",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "Medallón de carne vacuna 110gr, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         },
         {
           "nombre": "Cheese Burguer Simple",
-          "precio": 1600,
+          "precio": 1700,
           "descripción": "Medallón de carne vacuna 110gr, queso cheddar, panceta"
         },
         {
           "nombre": "Cheese Burguer Doble",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "Doble medallón de carne vacuna 110gr, doble queso cheddar, panceta"
         },
         {
           "nombre": "Hamburguesa Vegetariana",
-          "precio": 1400,
+          "precio": 1500,
           "descripción": "Medallón de verduras y legumbres, tomate, lechuga y cebolla morada"
         }
       ],
       "Pizzas": [
         {
           "nombre": "Mozzarella",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Queso Mozzarella, aceitunas verdes, orégano"
         },
         {
           "nombre": "Especial",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Queso Mozzarella, jamón cocido, morrón"
         },
         {
           "nombre": "Napolitana",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Queso Mozzarella, tomate, aceite de oliva y ajo."
         },
         {
           "nombre": "Fugazzeta",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Queso Mozzarella, cebollas, parmesano, aceite de oliva, orégano"
         },
         {
           "nombre": "Cuatro Quesos",
-          "precio": 2100,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, provolone, queso azul, gruyere, aceitunas negras"
         },
         {
           "nombre": "Calabresa",
-          "precio": 2100,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, aceitunas negras, longaniza calabresa"
         },
         {
           "nombre": "Parma",
-          "precio": 2100,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, rúcula, aceitunas negras, jamón crudo"
         }
       ],
@@ -161,12 +161,12 @@
         },
         {
           "nombre": "Mediterranea",
-          "precio": 1300,
+          "precio": 1400,
           "descripción": "Mix de hojas verdes, pepino, queso mozzarella, tomate cherry, cebolla morada y aceitunas negras"
         },
         {
           "nombre": "Ensalada Giveon",
-          "precio": 1300,
+          "precio": 1400,
           "descripción": "Rúcula, pera, queso azul y nueces"
         }
       ]
@@ -192,58 +192,58 @@
         },
         {
           "nombre": "Limonada",
-          "precio": 600,
-          "descripción": "Limonada de Menta y Jengibre"
+          "precio": 700,
+          "descripción": "Limonada con Menta y Jengibre"
         },
         {
           "nombre": "Jarra de Limonada",
-          "precio": 900,
-          "descripción": "Limonada de Menta y Jengibre"
+          "precio": 1200,
+          "descripción": "Limonada con Menta y Jengibre"
         }
       ],
       "Cervezas": [
         {
           "nombre": "Corona Monjita",
-          "precio": 800,
+          "precio": 900,
           "descripción": ""
         },
         {
           "nombre": "Corona Grande",
-          "precio": 1300,
+          "precio": 1400,
           "descripción": ""
         },
         {
           "nombre": "Stella Artois 1Lt",
-          "precio": 1300,
+          "precio": 1400,
           "descripción": "Rubia / Noire"
         }
       ],
       "Cerveza Artesanal": [
         {
           "nombre": "Craft Beer Golden",
-          "precio": 500,
+          "precio": 600,
           "descripción": ""
         },
         {
           "nombre": "Craft Beer IPA",
-          "precio": 500,
+          "precio": 600,
           "descripción": ""
         }
       ],
       "Vinos": [
         {
           "nombre": "Dolores Navarro Correa Malbec",
-          "precio": 2700,
+          "precio": 2800,
           "descripción": ""
         },
         {
           "nombre": "Cordero con Piel de Lobo Malbec",
-          "precio": 2700,
+          "precio": 2800,
           "descripción": ""
         },
         {
           "nombre": "Santa Julia Dulce Chenin",
-          "precio": 2700,
+          "precio": 2800,
           "descripción": ""
         }
       ],
@@ -414,17 +414,17 @@
       "Postres": [
         {
           "nombre": "Brownie con Helado",
-          "precio": 800,
+          "precio": 900,
           "descripción": ""
         },
         {
           "nombre": "Budin de Pan",
-          "precio": 800,
+          "precio": 900,
           "descripción": ""
         },
         {
           "nombre": "Flan Casero",
-          "precio": 800,
+          "precio": 900,
           "descripción": ""
         }
       ]
