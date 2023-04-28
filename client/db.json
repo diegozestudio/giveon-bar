@@ -26,17 +26,17 @@
       "lomitos": [
         {
           "nombre": "Lomito Simple",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "150gr de lomo, queso tybo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Completo",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "150gr de lomo, jamón cocido, queso tybo, huevo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Cuatro Quesos",
-          "precio": 2100,
+          "precio": 2400,
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
