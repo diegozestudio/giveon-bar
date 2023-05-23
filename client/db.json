@@ -3,23 +3,33 @@
     "subCategorias": {
       "entradas": [
         {
+          "nombre": "Papas Simples",
+          "precio": 1500,
+          "descripción": ""
+        },
+        {
+          "nombre": "Papas Takis",
+          "precio": 1600,
+          "descripción": "Papas fritas con salsa takis (picante)"
+        },
+        {
           "nombre": "Papas Bravas",
-          "precio": 1400,
+          "precio": 1800,
           "descripción": "Papas fritas, panceta grillada, queso cheddar"
         },
         {
           "nombre": "Bastones de Mozzarella",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Con dip de salsa fileto"
         },
         {
           "nombre": "Rabas",
-          "precio": 2400,
+          "precio": 2500,
           "descripción": "Rebozadas, con mayonesa casera y limón"
         },
         {
           "nombre": "Langostinos",
-          "precio": 2500,
+          "precio": 2700,
           "descripción": "Rebozados en panko, con dip de mostaza y miel"
         }
       ],
@@ -38,6 +48,23 @@
           "nombre": "Lomito Cuatro Quesos",
           "precio": 2400,
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
+        }
+      ],
+      "sandwich de milanesa": [
+        {
+          "nombre": "Sandwich de Milanesa Simple",
+          "precio": 1800,
+          "descripción": "Queso tybo, tomate y lechuga"
+        },
+        {
+          "nombre": "Sandwich de Milanesa Completo",
+          "precio": 2000,
+          "descripción": "Jamón cocido, queso tybo, huevo, tomate, lechuga"
+        },
+        {
+          "nombre": "Sandwich de Milanesa Cuatro Quesos",
+          "precio": 2200,
+          "descripción": "Queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
       "Hamburguesas": [
@@ -112,18 +139,13 @@
       "Carnes al Plato": [
         {
           "nombre": "Entraña",
-          "precio": 2900,
+          "precio": 3000,
           "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas"
         },
         {
           "nombre": "Lomo Giveon",
-          "precio": 2900,
+          "precio": 3000,
           "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas o verduras salteadas"
-        },
-        {
-          "nombre": "Ribbs a la Barbacoa",
-          "precio": 3100,
-          "descripción": "Costillar de cerdo 500gr cocinado a fuego lento, aderezado con salsa barbacoa, acompañado con papas rusticas o verduras salteadas"
         }
       ],
       "Milanesa de Bodegón": [
@@ -156,17 +178,17 @@
       "Ensaladas": [
         {
           "nombre": "Caesar",
-          "precio": 1000,
-          "descripción": "Croutons, lechuga, queso parmesano y aderezo Caesar"
+          "precio": 1800,
+          "descripción": "Pollo, croutons, lechuga, queso parmesano y aderezo Caesar"
         },
         {
           "nombre": "Mediterranea",
-          "precio": 1400,
+          "precio": 1800,
           "descripción": "Mix de hojas verdes, pepino, queso mozzarella, tomate cherry, cebolla morada y aceitunas negras"
         },
         {
           "nombre": "Ensalada Giveon",
-          "precio": 1400,
+          "precio": 1800,
           "descripción": "Rúcula, pera, queso azul y nueces"
         }
       ]
@@ -177,17 +199,17 @@
       "Bebidas sin alcohol": [
         {
           "nombre": "Gaseosa",
-          "precio": 400,
+          "precio": 500,
           "descripción": "Linea Pepsi"
         },
         {
           "nombre": "Agua Mineral",
-          "precio": 400,
+          "precio": 500,
           "descripción": ""
         },
         {
           "nombre": "Agua Saborizada",
-          "precio": 400,
+          "precio": 500,
           "descripción": ""
         },
         {
@@ -262,77 +284,77 @@
       "Tragos": [
         {
           "nombre": "Fernet Branca",
-          "precio": 1200,
+          "precio": 1500,
           "descripción": "Fernet Branca con Coca Cola"
         },
         {
           "nombre": "Shot de Tequila",
-          "precio": 2400,
+          "precio": 2700,
           "descripción": "Tequila Jose Cuervo, limon y sal"
         },
         {
           "nombre": "Medida Whisky",
-          "precio": 2500,
+          "precio": 3000,
           "descripción": "Jhonnie Walker Red Label"
         },
         {
           "nombre": "Medida Whisky",
-          "precio": 3000,
+          "precio": 3200,
           "descripción": "Jack Daniels / Jhonnie Walker Black Label"
         },
         {
           "nombre": "Vodka Absolut con naranja",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Vodka Absolut y jugo de naranja"
         },
         {
           "nombre": "Vodka Smirnoff con naranja",
-          "precio": 1100,
+          "precio": 1600,
           "descripción": "Vodka Smirnoff y jugo de naranja"
         },
         {
           "nombre": "Vodka Absolut con energizante",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Vodka Absolut y energizante"
         },
         {
           "nombre": "Vodka Smirnoff con energizante",
-          "precio": 1400,
+          "precio": 1800,
           "descripción": "Vodka Smirnoff y energizante"
         },
         {
           "nombre": "Gin Tonic Tanqueray",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Gin Tanqueray y agua tonica"
         },
         {
           "nombre": "Gin Tonic Beefeater",
-          "precio": 1400,
+          "precio": 1600,
           "descripción": "Gin Beefeater y agua tonica"
         },
         {
-          "nombre": "Campari Orange",
-          "precio": 1100,
+          "nombre": "Garibaldi",
+          "precio": 1200,
           "descripción": "Campari con jugo de naranja"
         },
         {
           "nombre": "Jagerbomb",
-          "precio": 1400,
+          "precio": 1600,
           "descripción": "Jägermeister y energizante"
         },
         {
           "nombre": "Jagerhina",
-          "precio": 1400,
+          "precio": 1600,
           "descripción": "Jägermeister, limon y azucar"
         },
         {
           "nombre": "Jagerjulep",
-          "precio": 1400,
+          "precio": 1600,
           "descripción": "Jägermeister, limon, azucar, menta y pomelo"
         },
         {
           "nombre": "Cuba Libre",
-          "precio": 1100,
+          "precio": 1200,
           "descripción": "Ron Havana Club y Coca Cola"
         },
         {
@@ -346,13 +368,23 @@
           "descripción": "Ron / Ron Añejo / Ron Oscuro, almibar, granadina, pomelo y naranja"
         },
         {
-          "nombre": "Caipis",
-          "precio": 1200,
-          "descripción": "Vodka, Ron, Cachaca, azucar y limon"
+          "nombre": "Caipirinha",
+          "precio": 1400,
+          "descripción": "Cachaca, azucar y lima"
+        },
+        {
+          "nombre": "Caipiroska",
+          "precio": 1400,
+          "descripción": "Vodka, azucar y limon"
+        },
+        {
+          "nombre": "Caipi Malibu",
+          "precio": 1400,
+          "descripción": "Ron de coco, azucar y limon"
         },
         {
           "nombre": "Cosmopolitan",
-          "precio": 1100,
+          "precio": 1200,
           "descripción": "Vodka, licor de naranja, limon y jugo de arandanos"
         },
         {
@@ -362,17 +394,17 @@
         },
         {
           "nombre": "Aperol Spritz",
-          "precio": 1200,
+          "precio": 1400,
           "descripción": "Aperol, espumante y soda"
         },
         {
           "nombre": "Tequila Sunrise",
-          "precio": 1200,
+          "precio": 1400,
           "descripción": "Tequila José Cuervo, jugo de naranja y granadina"
         },
         {
           "nombre": "Margarita",
-          "precio": 1200,
+          "precio": 1400,
           "descripción": "Tequila José Cuervo, licor de naranja y limon"
         },
         {
@@ -397,12 +429,12 @@
         },
         {
           "nombre": "Negroni",
-          "precio": 1200,
+          "precio": 1300,
           "descripción": "Gin, Campari, Carpano"
         },
         {
           "nombre": "Martini",
-          "precio": 1200,
+          "precio": 1300,
           "descripción": "Gin, Vermut seco"
         }
       ]
