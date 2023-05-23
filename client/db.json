@@ -50,7 +50,7 @@
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
-      "sandwich de milanesa": [
+      "sandwich de Milanesa": [
         {
           "nombre": "Sandwich de Milanesa Simple",
           "precio": 1800,
@@ -208,6 +208,11 @@
           "descripción": ""
         },
         {
+          "nombre": "Soda",
+          "precio": 500,
+          "descripción": ""
+        },
+        {
           "nombre": "Agua Saborizada",
           "precio": 500,
           "descripción": ""
@@ -253,11 +258,7 @@
         }
       ],
       "Vinos": [
-        {
-          "nombre": "Dolores Navarro Correa Malbec",
-          "precio": 2800,
-          "descripción": ""
-        },
+     
         {
           "nombre": "Cordero con Piel de Lobo Malbec",
           "precio": 2800,
