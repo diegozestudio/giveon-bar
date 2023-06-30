@@ -4,191 +4,191 @@
       "entradas": [
         {
           "nombre": "Papas Simples",
-          "precio": 1500,
+          "precio": 1700,
           "descripción": ""
         },
         {
           "nombre": "Papas Takis",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Papas fritas con salsa takis (picante)"
         },
         {
           "nombre": "Papas Bravas",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Papas fritas, panceta grillada, queso cheddar"
         },
         {
           "nombre": "Bastones de Mozzarella",
-          "precio": 2200,
+          "precio": 2500,
           "descripción": "Con dip de salsa fileto"
         },
         {
           "nombre": "Rabas",
-          "precio": 2500,
+          "precio": 2800,
           "descripción": "Rebozadas, con mayonesa casera y limón"
         },
         {
           "nombre": "Langostinos",
-          "precio": 2700,
+          "precio": 3000,
           "descripción": "Rebozados en panko, con dip de mostaza y miel"
         }
       ],
       "lomitos": [
         {
           "nombre": "Lomito Simple",
-          "precio": 2000,
+          "precio": 2500,
           "descripción": "150gr de lomo, queso tybo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Completo",
-          "precio": 2200,
+          "precio": 2700,
           "descripción": "150gr de lomo, jamón cocido, queso tybo, huevo, tomate y lechuga"
         },
         {
           "nombre": "Lomito Cuatro Quesos",
-          "precio": 2400,
+          "precio": 2800,
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
       "sandwich de Milanesa": [
         {
           "nombre": "Sandwich de Milanesa Simple",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Queso tybo, tomate y lechuga"
         },
         {
           "nombre": "Sandwich de Milanesa Completo",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Jamón cocido, queso tybo, huevo, tomate, lechuga"
         },
         {
           "nombre": "Sandwich de Milanesa Cuatro Quesos",
-          "precio": 2200,
+          "precio": 2400,
           "descripción": "Queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         }
       ],
       "Hamburguesas": [
         {
           "nombre": "Hamburguesa Comun",
-          "precio": 1600,
+          "precio": 1700,
           "descripción": "Medallón de carne vacuna 110gr, queso tybo, tomate, lechuga"
         },
         {
           "nombre": "Hamburguesa Completa",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "Medallón de carne vacuna 110gr, jamón cocido, queso tybo, huevo, tomate, lechuga"
         },
         {
           "nombre": "Hamburguesa Cuatro Quesos",
-          "precio": 1800,
+          "precio": 1900,
           "descripción": "Medallón de carne vacuna 110gr, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
         },
         {
           "nombre": "Cheese Burguer Simple",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "Medallón de carne vacuna 110gr, queso cheddar, panceta"
         },
         {
           "nombre": "Cheese Burguer Doble",
-          "precio": 1800,
+          "precio": 1900,
           "descripción": "Doble medallón de carne vacuna 110gr, doble queso cheddar, panceta"
         },
         {
           "nombre": "Hamburguesa Vegetariana",
-          "precio": 1500,
+          "precio": 1600,
           "descripción": "Medallón de verduras y legumbres, tomate, lechuga y cebolla morada"
         }
       ],
       "Pizzas": [
         {
           "nombre": "Mozzarella",
-          "precio": 2000,
+          "precio": 2200,
           "descripción": "Queso Mozzarella, aceitunas verdes, orégano"
         },
         {
           "nombre": "Especial",
-          "precio": 2200,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, jamón cocido, morrón"
         },
         {
           "nombre": "Napolitana",
-          "precio": 2200,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, tomate, aceite de oliva y ajo."
         },
         {
           "nombre": "Fugazzeta",
-          "precio": 2200,
+          "precio": 2400,
           "descripción": "Queso Mozzarella, cebollas, parmesano, aceite de oliva, orégano"
         },
         {
           "nombre": "Cuatro Quesos",
-          "precio": 2400,
+          "precio": 2600,
           "descripción": "Queso Mozzarella, provolone, queso azul, gruyere, aceitunas negras"
         },
         {
           "nombre": "Calabresa",
-          "precio": 2400,
+          "precio": 2600,
           "descripción": "Queso Mozzarella, aceitunas negras, longaniza calabresa"
         },
         {
           "nombre": "Parma",
-          "precio": 2400,
+          "precio": 2600,
           "descripción": "Queso Mozzarella, rúcula, aceitunas negras, jamón crudo"
         }
       ],
       "Carnes al Plato": [
         {
           "nombre": "Entraña",
-          "precio": 3000,
+          "precio": 3500,
           "descripción": "400gr de entraña, acompañado con papas rusticas o verduras salteadas"
         },
         {
           "nombre": "Lomo Giveon",
-          "precio": 3000,
+          "precio": 3500,
           "descripción": "Bife de chorizo grillado 400gr, acompañado con papas rusticas o verduras salteadas"
         }
       ],
       "Milanesa de Bodegón": [
         {
           "nombre": "Simple",
-          "precio": 3200,
+          "precio": 3500,
           "descripción": "(Para compartir) Milanesa de ternera, con papas rústicas"
         },
         {
           "nombre": "Napolitana",
-          "precio": 3500,
+          "precio": 4000,
           "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes. Con papas rústicas"
         },
         {
           "nombre": "Cuatro Quesos",
-          "precio": 3500,
+          "precio": 4000,
           "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere. Con papas rústicas"
         },
         {
           "nombre": "A Caballo",
-          "precio": 3500,
+          "precio": 4000,
           "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima. Con papas rústicas"
         },
         {
           "nombre": "Cheddar y Panceta",
-          "precio": 3500,
+          "precio": 4000,
           "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta. Con papas rústicas"
         }
       ],
       "Ensaladas": [
         {
           "nombre": "Caesar",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Pollo, croutons, lechuga, queso parmesano y aderezo Caesar"
         },
         {
           "nombre": "Mediterranea",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Mix de hojas verdes, pepino, queso mozzarella, tomate cherry, cebolla morada y aceitunas negras"
         },
         {
           "nombre": "Ensalada Giveon",
-          "precio": 1800,
+          "precio": 2000,
           "descripción": "Rúcula, pera, queso azul y nueces"
         }
       ]
