@@ -280,7 +280,7 @@
       "Tragos": [
         {
           "nombre": "Fernet Branca",
-          "precio": 1700,
+          "precio": 1800,
           "descripción": "Fernet Branca con Coca Cola"
         },
         {
@@ -310,7 +310,7 @@
         },
         {
           "nombre": "Vodka Absolut con energizante",
-          "precio": 2200,
+          "precio": 2500,
           "descripción": "Vodka Absolut y energizante"
         },
         {
@@ -325,7 +325,7 @@
         },
         {
           "nombre": "Gin Tonic Beefeater",
-          "precio": 1800,
+          "precio": 2500,
           "descripción": "Gin Beefeater y agua tonica"
         },
         {
@@ -335,102 +335,102 @@
         },
         {
           "nombre": "Jagerbomb",
-          "precio": 1800,
+          "precio": 2500,
           "descripción": "Jägermeister y energizante"
         },
         {
           "nombre": "Jagerhina",
-          "precio": 1800,
+          "precio": 2500,
           "descripción": "Jägermeister, limon y azucar"
         },
         {
           "nombre": "Jagerjulep",
-          "precio": 1800,
+          "precio": 2500,
           "descripción": "Jägermeister, limon, azucar, menta y pomelo"
         },
         {
           "nombre": "Cuba Libre",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Ron Havana Club y Coca Cola"
         },
         {
           "nombre": "Mojito",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Ron Havana Club, azucar, limon, menta y soda"
         },
         {
           "nombre": "Zombie",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Ron / Ron Añejo / Ron Oscuro, almibar, granadina, pomelo y naranja"
         },
         {
           "nombre": "Caipirinha",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Cachaca, azucar y lima"
         },
         {
           "nombre": "Caipiroska",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Vodka, azucar y limon"
         },
         {
           "nombre": "Caipi Malibu",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Ron de coco, azucar y limon"
         },
         {
           "nombre": "Cosmopolitan",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Vodka, licor de naranja, limon y jugo de arandanos"
         },
         {
           "nombre": "Sex On The Beach",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Vodka, licor de durazno, jugo de naranja y granadina"
         },
         {
           "nombre": "Aperol Spritz",
-          "precio": 1600,
+          "precio": 2300,
           "descripción": "Aperol, espumante y soda"
         },
         {
           "nombre": "Tequila Sunrise",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Tequila José Cuervo, jugo de naranja y granadina"
         },
         {
           "nombre": "Margarita",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Tequila José Cuervo, licor de naranja y limon"
         },
         {
           "nombre": "Mudslide",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Baileys, licor de café, vodka, helado de crema americana"
         },
         {
           "nombre": "Penicilin",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Whisky Bourbon, limon, miel y jengibre"
         },
         {
           "nombre": "Old Fashioned",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Whisky Bourbon, Bitter Angostura y azucar"
         },
         {
           "nombre": "Manhattan",
-          "precio": 1600,
+          "precio": 1800,
           "descripción": "Whisky Bourbon, Carpano y Bitter Angostura"
         },
         {
           "nombre": "Negroni",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Gin, Campari, Carpano"
         },
         {
           "nombre": "Martini",
-          "precio": 1500,
+          "precio": 1800,
           "descripción": "Gin, Vermut seco"
         }
       ]
