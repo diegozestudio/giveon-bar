@@ -76,12 +76,12 @@
         {
           "nombre": "Hamburguesa Clásica",
           "precio": 2000,
-          "descripción": "Medallón de carne vacuna 90gr, queso tybo, tomate, lechuga y mayonesa casera"
+          "descripción": "2 medallones de carne vacuna 90gr, queso tybo, tomate, lechuga y mayonesa casera"
         },
         {
           "nombre": "Hamburguesa Completa",
           "precio": 2500,
-          "descripción": "Medallón de carne vacuna 90gr, panceta ahumada, huevo frito, verdeo, cheddar y salsa mil islas"
+          "descripción": "2 medallones de carne vacuna 90gr, panceta ahumada, huevo frito, verdeo, cheddar y salsa mil islas"
         },
         {
           "nombre": "Hamburguesa Cuatro Quesos",
