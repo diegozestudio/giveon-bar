@@ -48,6 +48,11 @@
           "nombre": "Lomito Cuatro Quesos",
           "precio": 2800,
           "descripción": "150gr de lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
+        },
+        {
+          "nombre": "Lomito Americano",
+          "precio": 2800,
+          "descripción": "150gr de lomo, queso cheddar, panceta, cebolla caramelizada y salsa mil islas"
         }
       ],
       "sandwich de Milanesa": [
