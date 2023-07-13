@@ -55,6 +55,29 @@
           "descripción": "150gr de lomo, queso cheddar, panceta, cebolla caramelizada y salsa mil islas"
         }
       ],
+      ,
+      "lomitos por metro": [
+        {
+          "nombre": "Lomito Simple",
+          "precio": 5500,
+          "descripción": "(Medio metro) lomo, queso tybo, tomate y lechuga"
+        },
+        {
+          "nombre": "Lomito Completo",
+          "precio": 6800,
+          "descripción": "(Medio metro) lomo, jamón cocido, queso tybo, huevo, tomate y lechuga"
+        },
+        {
+          "nombre": "Lomito Cuatro Quesos",
+          "precio": 7000,
+          "descripción": "(Medio metro) lomo, queso tybo, mozzarella, queso azul, gruyere, huevo, tomate y lechuga"
+        },
+        {
+          "nombre": "Lomito Americano",
+          "precio": 7000,
+          "descripción": "(Medio metro) lomo, queso cheddar, panceta, cebolla caramelizada y salsa mil islas"
+        }
+      ],
       "sandwich de Milanesa": [
         {
           "nombre": "Sandwich de Milanesa Simple",
