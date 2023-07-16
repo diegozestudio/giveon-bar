@@ -173,27 +173,27 @@
       "Milanesa de Bodegón": [
         {
           "nombre": "Simple",
-          "precio": 3850,
+          "precio": 4350,
           "descripción": "(Para compartir) Milanesa de ternera, con papas rústicas"
         },
         {
           "nombre": "Napolitana",
-          "precio": 4500,
+          "precio": 5000,
           "descripción": "(Para compartir) Milanesa de ternera, queso mozzarella, tomate, aceite de oliva, ajo y aceitunas verdes. Con papas rústicas"
         },
         {
           "nombre": "Cuatro Quesos",
-          "precio": 4500,
+          "precio": 5000,
           "descripción": "(Para compartir) Milanesa de ternera, queso tybo, mozzarella, queso azul y queso gruyere. Con papas rústicas"
         },
         {
           "nombre": "A Caballo",
-          "precio": 4500,
+          "precio": 5000,
           "descripción": "(Para compartir) Milanesa de ternera con huevo frito encima. Con papas rústicas"
         },
         {
           "nombre": "Cheddar y Panceta",
-          "precio": 4800,
+          "precio": 5300,
           "descripción": "(Para compartir) Milanesa de ternera con queso cheddar y panceta. Con papas rústicas"
         }
       ],
